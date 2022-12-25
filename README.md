@@ -1,6 +1,6 @@
 # Sommaire
 
-* Préface
+* [Préface](#préface)
     * Contribuer
 * [Administration Réseaux](#administration-réseaux)
 * [Switching - ipv6 - WLAN](#switching---ipv6---wlan)
