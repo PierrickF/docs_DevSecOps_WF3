@@ -101,6 +101,6 @@ Se référer à la section [GitHub](#github) pour cela.
 # Maven
 # Kubernetes
 
-* [Kubernetes : Les Concepts les Plus Imortants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdk8dwNnBd77rWnsTCmP9wdE)
+* [Kubernetes : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdk8dwNnBd77rWnsTCmP9wdE)
 
 # Stack Elastic
