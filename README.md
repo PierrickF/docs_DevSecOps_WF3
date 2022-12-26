@@ -11,7 +11,6 @@
 * [Python](#python)
 * [Pare-Feu](#pare-feu)
 * [GitHub](#github)
-  * Git
 * [DevOps](#devops)
 * [Agile - Scrum - SAFe](#agile---scrum---safe)
 * [Management de SI](#management-de-si)
@@ -41,16 +40,35 @@ Merci d'ouvrir une pull request pour contribuer.<br>
 Se référer à la section [GitHub](#github) pour cela.
 
 # Administration Réseaux
-# Switching - ipv6 - WLAN
-# Administration Windows
-# Administration Linux
-# Administration Linux Avancée
-# Sauvegarde et Stockage
-# Python
-# Pare-Feu
-# GitHub
 
-## Git
+* [WayToLearnX : Réseau - (article)](https://waytolearnx.com/category/reseau)
+* [Réseau : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdlb7MtCHYNZwUlGhY1BkMS_)
+
+# Switching - ipv6 - WLAN
+
+# Administration Windows
+
+# Administration Linux
+
+* [The Linux Command Line - (livre)](https://nostarch.com/tlcl2)
+* [Linux Upskill Challenge - (cours)](https://old.reddit.com/r/linuxupskillchallenge)
+
+# Administration Linux Avancée
+
+# Sauvegarde et Stockage
+
+* [Stockage Informatique : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdmUQ1WYNyj2G8LPA5l4YKJi)
+
+# Python
+
+* [La Programmation Orientée Objet - (vidéo)](https://www.youtube.com/watch?v=gABYMZbfGok)
+* [Python : La Programmation Orientée Objet - (vidéo)](https://www.youtube.com/watch?v=h6jciR8K43E)
+* [WayToLearnX : Python - (article)](https://waytolearnx.com/2020/06/tutoriels-python.html)
+* [Learn Python the Hard Way - (livre)](https://github.com/ev1lm0rty/Learn_Python3/blob/master/learn-python-3-hard-way.pdf)
+
+# Pare-Feu
+
+# GitHub
 
 * [Les Bases de Git - (vidéo)](https://www.youtube.com/watch?v=gp_k0UVOYMw)
 * [Setting up Git - (article)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
@@ -62,6 +80,9 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Pro Git - (livre)](https://git-scm.com/book/en/v2)
 
 # DevOps
+
+* [DevOps : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdkT4tQQZgPoMqBRkP0N5swG)
+
 # Agile - Scrum - SAFe
 # Management de SI
 # Ansible
@@ -70,8 +91,14 @@ Se référer à la section [GitHub](#github) pour cela.
 # Docker
 # Saltstack
 # Cloud
+
+* [Cloud : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdmrbN_ZugngjlNzK5C8dV5n)
+
 # Sécurisation d'App Web
 # Test et Déploiement d'App
 # Maven
 # Kubernetes
+
+* [Kubernetes : Les Concepts les Plus Imortants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdk8dwNnBd77rWnsTCmP9wdE)
+
 # Stack Elastic
