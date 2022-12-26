@@ -69,6 +69,8 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Pare-Feu
 
+* [Firewall : Comprendre l'Essentiel - (vidéo)](https://www.youtube.com/watch?v=6Swt51w3EjY)
+
 # GitHub
 
 * [Les Bases de Git - (vidéo)](https://www.youtube.com/watch?v=gp_k0UVOYMw)
