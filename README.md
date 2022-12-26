@@ -51,6 +51,7 @@ Se référer à la section [GitHub](#github) pour cela.
 # Administration Linux
 
 * [The Linux Command Line - (livre)](https://nostarch.com/tlcl2)
+* [Débuter avec VIM - (vidéo)](https://www.youtube.com/watch?v=JinFsXrOHao)
 * [Linux Upskill Challenge - (cours)](https://old.reddit.com/r/linuxupskillchallenge)
 
 # Administration Linux Avancée
@@ -74,6 +75,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Setting up Git - (article)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 * [Introduction to Git - (article)](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
 * [Git Basics - (article)](https://www.theodinproject.com/lessons/foundations-git-basics)
+* [A Note About Git Commit Messages - (article)](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 * [A Deeper Look at Git - (article)](https://www.theodinproject.com/lessons/ruby-a-deeper-look-at-git)
 * [Using Git in the Real World - (article)](https://www.theodinproject.com/lessons/ruby-using-git-in-the-real-world)
 * [Pull Request et Tags - (vidéo)](https://www.youtube.com/watch?v=U5xYWy6zJGY)
