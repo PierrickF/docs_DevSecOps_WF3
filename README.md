@@ -11,6 +11,7 @@
 * [Python](#python)
 * [Pare-Feu](#pare-feu)
 * [GitHub](#github)
+  * Git
 * [DevOps](#devops)
 * [Agile - Scrum - SAFe](#agile---scrum---safe)
 * [Management de SI](#management-de-si)
@@ -36,7 +37,8 @@ Aucun cours ou support de cours n'est présent ici.
 ## Contribuer
 
 Toute contribution est la bienvenue.<br>
-Merci d'ouvrir une pull request pour contribuer.
+Merci d'ouvrir une pull request pour contribuer.<br>
+Se référer à la section [GitHub](#github) pour cela.
 
 # Administration Réseaux
 # Switching - ipv6 - WLAN
@@ -47,6 +49,18 @@ Merci d'ouvrir une pull request pour contribuer.
 # Python
 # Pare-Feu
 # GitHub
+
+## Git
+
+* [Les Bases de Git - (vidéo)](https://www.youtube.com/watch?v=gp_k0UVOYMw)
+* [Setting up Git - (article)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+* [Introduction to Git - (article)](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
+* [Git Basics - (article)](https://www.theodinproject.com/lessons/foundations-git-basics)
+* [A Deeper Look at Git - (article)](https://www.theodinproject.com/lessons/ruby-a-deeper-look-at-git)
+* [Using Git in the Real World - (article)](https://www.theodinproject.com/lessons/ruby-using-git-in-the-real-world)
+* [Pull Request et Tags - (vidéo)](https://www.youtube.com/watch?v=U5xYWy6zJGY)
+* [Pro Git - (livre)](https://git-scm.com/book/en/v2)
+
 # DevOps
 # Agile - Scrum - SAFe
 # Management de SI
