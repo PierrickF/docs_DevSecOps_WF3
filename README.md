@@ -4,6 +4,8 @@
     * Contribuer
 * [Administration Réseaux](#administration-réseaux)
 * [Switching - ipv6 - WLAN](#switching---ipv6---wlan)
+    * Switching
+    * WLAN
 * [Administration Windows](#administration-windows)
 * [Administration Linux](#administration-linux)
 * [Administration Linux Avancée](#administration-linux-avancée)
@@ -48,7 +50,13 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Switching - ipv6 - WLAN
 
+## Switching
+
 * [Switching, an Introduction - (article)](https://www.homenethowto.com/switching)
+
+## WLAN
+
+* [Introduction aux Technologies WLAN - (article)](https://cisco.goffinet.org/ccna/wlan/introduction-technologies-wlan)
 * [Wireless Networks, an Introduction - (article)](https://www.homenethowto.com/wireless)
 
 # Administration Windows
