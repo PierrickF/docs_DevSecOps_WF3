@@ -43,8 +43,13 @@ Se référer à la section [GitHub](#github) pour cela.
 
 * [WayToLearnX : Réseau - (article)](https://waytolearnx.com/category/reseau)
 * [Réseau : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdlb7MtCHYNZwUlGhY1BkMS_)
+* [Basics: An Introduction to Computer Networks - (article)](https://www.homenethowto.com/basics)
+* [Ports and NAT, an Introduction - (article)](https://www.homenethowto.com/ports-and-nat)
 
 # Switching - ipv6 - WLAN
+
+* [Switching, an Introduction - (article)](https://www.homenethowto.com/switching)
+* [Wireless Networks, an Introduction - (article)](https://www.homenethowto.com/wireless)
 
 # Administration Windows
 
