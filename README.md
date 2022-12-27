@@ -3,8 +3,9 @@
 * [Préface](#préface)
     * Contribuer
 * [Administration Réseaux](#administration-réseaux)
-* [Switching - ipv6 - WLAN](#switching---ipv6---wlan)
+* [Switching - IPv6 - WLAN](#switching---ipv6---wlan)
     * Switching
+    * IPv6
     * WLAN
 * [Administration Windows](#administration-windows)
 * [Administration Linux](#administration-linux)
@@ -48,11 +49,15 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Basics: An Introduction to Computer Networks - (article)](https://www.homenethowto.com/basics)
 * [Ports and NAT, an Introduction - (article)](https://www.homenethowto.com/ports-and-nat)
 
-# Switching - ipv6 - WLAN
+# Switching - IPv6 - WLAN
 
 ## Switching
 
 * [Switching, an Introduction - (article)](https://www.homenethowto.com/switching)
+
+## IPv6
+
+* [IPv6 Introduction and Configuration - (livre)](https://www.redbooks.ibm.com/redpapers/pdfs/redp4776.pdf)
 
 ## WLAN
 
