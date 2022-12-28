@@ -68,8 +68,9 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Administration Linux
 
-* [The Linux Command Line - (livre)](https://nostarch.com/tlcl2)
 * [Débuter avec VIM - (vidéo)](https://www.youtube.com/watch?v=JinFsXrOHao)
+* [Master VIM Quickly - (livre)](https://jovicailic.org/mastering-vim-quickly)
+* [The Linux Command Line - (livre)](https://nostarch.com/tlcl2)
 * [Linux Upskill Challenge - (cours)](https://old.reddit.com/r/linuxupskillchallenge)
 
 # Administration Linux Avancée
