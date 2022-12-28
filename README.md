@@ -68,6 +68,7 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Administration Linux
 
+* [Découvrir Linux - (vidéo)](https://www.youtube.com/playlist?list=PLQqbP89HgbbbD0WSKRR90R5yjmTpSNNIl)
 * [Débuter avec VIM - (vidéo)](https://www.youtube.com/watch?v=JinFsXrOHao)
 * [Master VIM Quickly - (livre)](https://jovicailic.org/mastering-vim-quickly)
 * [The Linux Command Line - (livre)](https://nostarch.com/tlcl2)
@@ -112,6 +113,9 @@ Se référer à la section [GitHub](#github) pour cela.
 # Administration Red Hat II
 # Puppet
 # Docker
+
+* [Docker : Comprendre l'Essentiel - (vidéo)](https://www.youtube.com/watch?v=caXHwYC3tq8)
+
 # Saltstack
 # Cloud
 
