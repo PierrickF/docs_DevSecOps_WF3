@@ -69,6 +69,7 @@ Se référer à la section [GitHub](#github) pour cela.
 # Administration Linux
 
 * [Découvrir Linux - (vidéo)](https://www.youtube.com/playlist?list=PLQqbP89HgbbbD0WSKRR90R5yjmTpSNNIl)
+* [Installer Linux sur Windows avec WSL - (vidéo)](https://learn.microsoft.com/fr-fr/windows/wsl/install)
 * [Débuter avec VIM - (vidéo)](https://www.youtube.com/watch?v=JinFsXrOHao)
 * [Master VIM Quickly - (livre)](https://jovicailic.org/mastering-vim-quickly)
 * [The Linux Command Line - (livre)](https://nostarch.com/tlcl2)
