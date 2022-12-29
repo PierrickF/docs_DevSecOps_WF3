@@ -48,6 +48,8 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Réseau : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdlb7MtCHYNZwUlGhY1BkMS_)
 * [Basics: An Introduction to Computer Networks - (article)](https://www.homenethowto.com/basics)
 * [Ports and NAT, an Introduction - (article)](https://www.homenethowto.com/ports-and-nat)
+* [How to Configure DHCP server in Packet Tracer - (article)](https://computernetworking747640215.wordpress.com/2018/07/05/how-to-configure-dhcp-server-in-packet-tracer)
+* [Configure DHCP Server for Multiple VLANs on the Switch - (article)](https://www.computernetworkingnotes.com/ccna-study-guide/configure-dhcp-server-for-multiple-vlans-on-the-switch.html)
 
 # Switching - IPv6 - WLAN
 
