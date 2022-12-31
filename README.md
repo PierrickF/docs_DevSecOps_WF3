@@ -79,6 +79,10 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Administration Linux Avancée
 
+* [What Are the Differences Between Perl, Python, Awk and sed? - (article)](https://stackoverflow.com/a/367014)
+* [Is There Still Any Reason to Learn Awk? - (article)](https://stackoverflow.com/a/703174)
+* [The Awk Programming Language - (livre)](https://ia903404.us.archive.org/0/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
+
 # Sauvegarde et Stockage
 
 * [Stockage Informatique : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdmUQ1WYNyj2G8LPA5l4YKJi)
