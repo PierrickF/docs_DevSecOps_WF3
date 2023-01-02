@@ -65,6 +65,7 @@ Se référer à la section [GitHub](#github) pour cela.
 
 * [Introduction aux Technologies WLAN - (article)](https://cisco.goffinet.org/ccna/wlan/introduction-technologies-wlan)
 * [Wireless Networks, an Introduction - (article)](https://www.homenethowto.com/wireless)
+* [Basic Set Service : les Différentes Topologies WLAN - (article)](https://formip.com/basic-service-set/)
 
 # Administration Windows
 
