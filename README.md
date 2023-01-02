@@ -56,6 +56,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [How to Configure DHCP server in Packet Tracer - (article)](https://computernetworking747640215.wordpress.com/2018/07/05/how-to-configure-dhcp-server-in-packet-tracer)
 * [Configure DHCP Server for Multiple VLANs on the Switch - (article)](https://www.computernetworkingnotes.com/ccna-study-guide/configure-dhcp-server-for-multiple-vlans-on-the-switch.html)
 * [VLAN in Multiple Switches and Trunk Configuration in Packet Tracer - (article)](https://chennaicisco.blogspot.com/2020/02/vlan-in-different-switches-and-trunk.html)
+* [Lightweight Access Point Configuration - (article)](https://study-ccna.com/lightweight-access-point-configuration)
 
 # Switching - IPv6 - WLAN
 
