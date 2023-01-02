@@ -57,6 +57,7 @@ Se référer à la section [GitHub](#github) pour cela.
 ## Switching
 
 * [Switching, an Introduction - (article)](https://www.homenethowto.com/switching)
+* [Sécurité sur les Ports Cisco en IOS - (article)](https://cisco.goffinet.org/ccna/ethernet/switchport-port-security-cisco-ios)
 
 ## IPv6
 
