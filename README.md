@@ -77,6 +77,8 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Administration Windows
 
+* [Introduction à Active Directory - (article)](https://neptunet.fr/intro-ad-p1)
+
 # Administration Linux
 
 * [Découvrir Linux - (vidéo)](https://www.youtube.com/playlist?list=PLQqbP89HgbbbD0WSKRR90R5yjmTpSNNIl)
