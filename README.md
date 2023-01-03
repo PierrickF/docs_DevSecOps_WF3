@@ -70,6 +70,7 @@ Se référer à la section [GitHub](#github) pour cela.
 ## IPv6
 
 * [IPv6 Introduction and Configuration - (livre)](https://www.redbooks.ibm.com/redpapers/pdfs/redp4776.pdf)
+* [IPv6 : Tout Savoir sur ce Nouveau Standard Internet - (article)](https://www.ionos.fr/digitalguide/serveur/know-how/quels-sont-les-avantages-de-ipv6)
 
 ## WLAN
 
