@@ -45,6 +45,7 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Administration Réseaux
 
+* [Tableau Calcul Adressage IP - (image)](https://i.imgur.com/HkFipRU.jpg)
 * [WayToLearnX : Réseau - (article)](https://waytolearnx.com/category/reseau)
 * [Réseau : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdlb7MtCHYNZwUlGhY1BkMS_)
 * [Basics: An Introduction to Computer Networks - (article)](https://www.homenethowto.com/basics)
