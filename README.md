@@ -65,6 +65,7 @@ Se référer à la section [GitHub](#github) pour cela.
 
 * [Switching, an Introduction - (article)](https://www.homenethowto.com/switching)
 * [Sécurité sur les Ports Cisco en IOS - (article)](https://cisco.goffinet.org/ccna/ethernet/switchport-port-security-cisco-ios)
+* [Configuring DHCP Snooping - (livre)](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/12-2SXF/native/configuration/guide/swcg/snoodhcp.pdf)
 
 ## IPv6
 
