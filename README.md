@@ -81,6 +81,7 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Administration Windows
 
+* [How to Configure Internal Network Between Virtual Machines in VirtualBox - (vidéo)](https://www.youtube.com/watch?v=04pAiANkr_s)
 * [Introduction à Active Directory - (article)](https://neptunet.fr/intro-ad-p1)
 
 # Administration Linux
