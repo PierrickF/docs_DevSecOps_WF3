@@ -82,6 +82,7 @@ Se référer à la section [GitHub](#github) pour cela.
 # Administration Windows
 
 * [How to Configure Internal Network Between Virtual Machines in VirtualBox - (vidéo)](https://www.youtube.com/watch?v=04pAiANkr_s)
+* [Routeur IPCOP Installation et Configuration dans un Environnement VirtualBox - (vidéo)](https://www.youtube.com/watch?v=wTn4fXC72zo)
 * [Introduction à Active Directory - (article)](https://neptunet.fr/intro-ad-p1)
 
 # Administration Linux
