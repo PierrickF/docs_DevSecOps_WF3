@@ -1,13 +1,8 @@
 # Sommaire
 
 * [Préface](#préface)
-    * Contribuer
 * [Administration Réseaux](#administration-réseaux)
-    * Cas Pratiques
 * [Switching - IPv6 - WLAN](#switching---ipv6---wlan)
-    * Switching
-    * IPv6
-    * WLAN
 * [Administration Windows](#administration-windows)
 * [Administration Linux](#administration-linux)
 * [Administration Linux Avancée](#administration-linux-avancée)
@@ -57,8 +52,6 @@ Se référer à la section [GitHub](#github) pour cela.
 
 * [How to Configure DHCP server in Packet Tracer - (article)](https://computernetworking747640215.wordpress.com/2018/07/05/how-to-configure-dhcp-server-in-packet-tracer)
 * [Configure DHCP Server for Multiple VLANs on the Switch - (article)](https://www.computernetworkingnotes.com/ccna-study-guide/configure-dhcp-server-for-multiple-vlans-on-the-switch.html)
-* [VLAN in Multiple Switches and Trunk Configuration in Packet Tracer - (article)](https://chennaicisco.blogspot.com/2020/02/vlan-in-different-switches-and-trunk.html)
-* [Lightweight Access Point Configuration - (article)](https://study-ccna.com/lightweight-access-point-configuration)
 
 # Switching - IPv6 - WLAN
 
@@ -69,6 +62,10 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Switching, an Introduction - (article)](https://www.homenethowto.com/switching)
 * [Sécurité sur les Ports Cisco en IOS - (article)](https://cisco.goffinet.org/ccna/ethernet/switchport-port-security-cisco-ios)
 * [Configuring DHCP Snooping - (livre)](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst6500/ios/12-2SXF/native/configuration/guide/swcg/snoodhcp.pdf)
+
+### Cas Pratiques
+
+* [VLAN in Multiple Switches and Trunk Configuration in Packet Tracer - (article)](https://chennaicisco.blogspot.com/2020/02/vlan-in-different-switches-and-trunk.html)
 
 ## IPv6
 
@@ -81,6 +78,10 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Introduction aux Technologies WLAN - (article)](https://cisco.goffinet.org/ccna/wlan/introduction-technologies-wlan)
 * [Wireless Networks, an Introduction - (article)](https://www.homenethowto.com/wireless)
 * [Basic Set Service : les Différentes Topologies WLAN - (article)](https://formip.com/basic-service-set/)
+
+### Cas Pratiques
+
+* [Lightweight Access Point Configuration - (article)](https://study-ccna.com/lightweight-access-point-configuration)
 
 # Administration Windows
 
