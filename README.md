@@ -88,6 +88,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [How to Configure Internal Network Between Virtual Machines in VirtualBox - (vidéo)](https://www.youtube.com/watch?v=04pAiANkr_s)
 * [Routeur IPCop Installation et Configuration dans un Environnement VirtualBox - (vidéo)](https://www.youtube.com/watch?v=wTn4fXC72zo)
 * [Installation d'IPCop 2 - (article)](https://www.smnet.fr/ipcop/ipcop-install.html)
+* [DHCP Server Configuration for IPCop - (article)](https://www.ipcop.org/2-0-0/en/install/html/setup-install-dhcp.html)
 * [Introduction à Active Directory - (article)](https://neptunet.fr/intro-ad-p1)
 
 # Administration Linux
