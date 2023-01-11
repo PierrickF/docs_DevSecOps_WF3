@@ -90,6 +90,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Installation d'IPCop 2 - (article)](https://www.smnet.fr/ipcop/ipcop-install.html)
 * [DHCP Server Configuration for IPCop - (article)](https://www.ipcop.org/2-0-0/en/install/html/setup-install-dhcp.html)
 * [Introduction à Active Directory - (article)](https://neptunet.fr/intro-ad-p1)
+* [Formation Complète WIndow Server 2019 - (vidéo)](https://www.youtube.com/playlist?list=PL6fETXikO3ew1Yz0OBDfTw5hj9kPSwC7r)
 
 # Administration Linux
 
