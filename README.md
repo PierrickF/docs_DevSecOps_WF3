@@ -100,6 +100,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Master VIM Quickly - (livre)](https://jovicailic.org/mastering-vim-quickly)
 * [The Linux Command Line - (livre)](https://nostarch.com/tlcl2)
 * [Linux Upskill Challenge - (cours)](https://old.reddit.com/r/linuxupskillchallenge)
+* [Formation Certification LPIC-1 - (vidéo)](https://www.youtube.com/playlist?list=PLDKB034qmVZdpp1LBS_34jSTO8Y-a2L7R)
 
 # Administration Linux Avancée
 
@@ -133,6 +134,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Using Git in the Real World - (article)](https://www.theodinproject.com/lessons/ruby-using-git-in-the-real-world)
 * [Pull Request et Tags - (vidéo)](https://www.youtube.com/watch?v=U5xYWy6zJGY)
 * [Pro Git - (livre)](https://git-scm.com/book/en/v2)
+* [Git Flight Rules - (article)](https://github.com/k88hudson/git-flight-rules)
 
 # DevOps
 
@@ -141,7 +143,11 @@ Se référer à la section [GitHub](#github) pour cela.
 # Agile - Scrum - SAFe
 # Management de SI
 # Ansible
+
 # Administration Red Hat II
+
+* [Formation Certification RHCSA - (vidéo)](https://www.youtube.com/playlist?list=PL1aYsXmhJ1We3Fb-jo_HndFSpeKmFRWeB)
+
 # Puppet
 # Docker
 
