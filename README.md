@@ -101,6 +101,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [The Linux Command Line - (livre)](https://nostarch.com/tlcl2)
 * [Linux Upskill Challenge - (cours)](https://old.reddit.com/r/linuxupskillchallenge)
 * [Formation Certification LPIC-1 - (vidéo)](https://www.youtube.com/playlist?list=PLDKB034qmVZdpp1LBS_34jSTO8Y-a2L7R)
+* [Administration Système Linux - (vidéo)](https://www.youtube.com/watch?v=JiUJbZaQyZU)
 
 # Administration Linux Avancée
 
