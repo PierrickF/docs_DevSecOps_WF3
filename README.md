@@ -139,6 +139,7 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # DevOps
 
+* [DevOps Roadmap - (article)](https://roadmap.sh/devops)
 * [DevOps : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdkT4tQQZgPoMqBRkP0N5swG)
 
 # Agile - Scrum - SAFe
