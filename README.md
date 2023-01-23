@@ -109,6 +109,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Is There Still Any Reason to Learn Awk? - (article)](https://stackoverflow.com/a/703174)
 * [The Awk Programming Language - (livre)](https://ia903404.us.archive.org/0/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
 * [Bash Shell Scripting: Awk - (article)](https://snipcademy.com/shell-scripting-awk)
+* [How to Install LAMP Stack on Debian 10/11 - (article)](https://computingforgeeks.com/install-lamp-stack-on-debian-linux-system)
 
 # Sauvegarde et Stockage
 
