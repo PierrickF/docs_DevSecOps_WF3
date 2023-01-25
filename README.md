@@ -116,6 +116,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Stockage Informatique : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdmUQ1WYNyj2G8LPA5l4YKJi)
 * [Le Stockage en Réseau, Qu'est-ce Que C'est ? - (article)](https://www.redhat.com/fr/topics/data-storage/network-attached-storage)
 * [Qu'est-ce Que le SAN? - (article)](https://www.netapp.com/fr/data-storage/what-is-san-storage-area-network)
+* [Qu'est-ce Qu'un DAS ? - (article)](https://www.oracle.com/fr/cloud/definition-das)
 
 # Python
 
