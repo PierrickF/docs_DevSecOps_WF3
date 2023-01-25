@@ -120,6 +120,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [What is iSCSI? - (article)](https://www.snia.org/education/what-is-iscsi)
 * [IaaS, SaaS et PaaS - (article)](https://culture-informatique.net/cest-quoi-le-cloud-2)
 * [Pourquoi l'Archivage sur Bande est Toujours d'Actualité - (article)](https://www.lemondeinformatique.fr/actualites/lire-pourquoi-l-archivage-sur-bande-est-toujours-d-actualite-73237.html)
+* [Standard RAID Levels - (article)](https://en.wikipedia.org/wiki/Standard_RAID_levels)
 
 # Python
 
