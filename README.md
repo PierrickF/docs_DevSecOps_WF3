@@ -169,6 +169,7 @@ Se référer à la section [GitHub](#github) pour cela.
 # Cloud
 
 * [Cloud : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdmrbN_ZugngjlNzK5C8dV5n)
+* [AWS Certified Cloud Practitioner Training 2020 Full Course - (vidéo)](https://www.youtube.com/watch?v=3hLmDS179YE)
 
 # Sécurisation d'App Web
 # Test et Déploiement d'App
