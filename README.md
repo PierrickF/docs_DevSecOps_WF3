@@ -17,7 +17,7 @@
 * [Administration Red Hat II](#administration-red-hat-ii)
 * [Puppet](#puppet)
 * [Docker](#docker)
-* [Saltstack](#saltstack)
+* [Salt](#salt)
 * [Cloud](#cloud)
 * [Sécurisation d'App Web](#sécurisation-d'app-web)
 * [Test et Déploiement d'App](#test-et-déploiement-d'app)
@@ -166,7 +166,7 @@ Se référer à la section [GitHub](#github) pour cela.
 
 * [Docker : Comprendre l'Essentiel - (vidéo)](https://www.youtube.com/watch?v=caXHwYC3tq8)
 
-# Saltstack
+# Salt
 # Cloud
 
 * [Cloud : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdmrbN_ZugngjlNzK5C8dV5n)
