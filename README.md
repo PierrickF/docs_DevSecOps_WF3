@@ -173,7 +173,7 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Salt
 
-* [Saltstack : tutos & formation - (vidéo)](https://www.youtube.com/playlist?list=PLn6POgpklwWqquh9WtO9jVwOU0-RwQIex)
+* [Saltstack : Tutos & Formation - (vidéo)](https://www.youtube.com/playlist?list=PLn6POgpklwWqquh9WtO9jVwOU0-RwQIex)
 
 # Cloud
 
