@@ -155,18 +155,26 @@ Se référer à la section [GitHub](#github) pour cela.
 
 # Agile - Scrum - SAFe
 # Management de SI
+
 # Ansible
+
+* [Ansible : Tutos & Formation - (vidéo)](https://www.youtube.com/playlist?list=PLn6POgpklwWoCpLKOSw3mXCqbRocnhrh-)
 
 # Administration Red Hat II
 
 * [Formation Certification RHCSA - (vidéo)](https://www.youtube.com/playlist?list=PL1aYsXmhJ1We3Fb-jo_HndFSpeKmFRWeB)
 
 # Puppet
+
 # Docker
 
 * [Docker : Comprendre l'Essentiel - (vidéo)](https://www.youtube.com/watch?v=caXHwYC3tq8)
+* [Formation Docker - (vidéo)](https://www.youtube.com/playlist?list=PLn6POgpklwWq0iz59-px2z-qjDdZKEvWd)
 
 # Salt
+
+* [Saltstack : tutos & formation - (vidéo)](https://www.youtube.com/playlist?list=PLn6POgpklwWqquh9WtO9jVwOU0-RwQIex)
+
 # Cloud
 
 * [Cloud : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdmrbN_ZugngjlNzK5C8dV5n)
