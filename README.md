@@ -183,8 +183,10 @@ Se référer à la section [GitHub](#github) pour cela.
 # Sécurisation d'App Web
 # Test et Déploiement d'App
 # Maven
+
 # Kubernetes
 
 * [Kubernetes : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdk8dwNnBd77rWnsTCmP9wdE)
+* [Reviewing Kubernetes Concepts and Building your First Cluster - (vidéo)](https://kubecampus.io/kubernetes/courses/first-kubernetes-cluster/lessons/kubernetes-concepts-and-building-your-first-cluster)
 
 # Stack Elastic
