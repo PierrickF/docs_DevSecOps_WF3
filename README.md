@@ -102,6 +102,7 @@ Se référer à la section [GitHub](#github) pour cela.
 * [Linux Upskill Challenge - (cours)](https://old.reddit.com/r/linuxupskillchallenge)
 * [Formation Certification LPIC-1 - (vidéo)](https://www.youtube.com/playlist?list=PLDKB034qmVZdpp1LBS_34jSTO8Y-a2L7R)
 * [Administration Système Linux - (vidéo)](https://www.youtube.com/watch?v=JiUJbZaQyZU)
+* [Zero to Hero - (article)](https://www.zerotohero.dev/tag/roadmap)
 
 # Administration Linux Avancée
 
