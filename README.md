@@ -153,6 +153,12 @@ Se référer à la section [GitHub](#github) pour cela.
 
 * [DevOps Roadmap - (article)](https://roadmap.sh/devops)
 * [DevOps : Les Concepts les Plus Importants - (vidéo)](https://www.youtube.com/playlist?list=PLP0aqyZ5GFdkT4tQQZgPoMqBRkP0N5swG)
+* [DoD Enterprise DevSecOps Strategy Guide - (document)](https://dodcio.defense.gov/Portals/0/Documents/Library/DoDEnterpriseDevSecOpsStrategyGuide.pdf)
+* [DoD Enterprise DevSecOps Fundamentals - (document)](https://dodcio.defense.gov/Portals/0/Documents/Library/DoD%20Enterprise%20DevSecOps%20Fundamentals_DoD-CIO_20211019.pdf)
+* [DevSecOps Fundamentals Guidebook: Tools & Activities - (document)](https://software.af.mil/wp-content/uploads/2021/05/DoD-Enterprise-DevSecOps-2.0-Tools-and-Activities-Guidebook.pdf)
+* [DevSecOps Playbook - (document)](https://dodcio.defense.gov/Portals/0/Documents/Library/DevSecOps%20Playbook_DoD-CIO_20211019.pdf)
+* [DoD Enterprise DevSecOps Reference Design: CNCF Kubernetes - (document)](https://dodcio.defense.gov/Portals/0/Documents/Library/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20-%20CNCF%20Kubernetes%20w-DD1910_cleared_20211022.pdf)
+* [DoD Enterprise DevSecOps Reference Design: Cloud, Azure, and GitHub - (document)](https://dodcio.defense.gov/Portals/0/Documents/Library/DoDRefDesignCloudGithub.pdf?ver=zXJ_uO5LfouVaysHo5Ejsw%3D%3D)
 
 # Agile - Scrum - SAFe
 # Management de SI
