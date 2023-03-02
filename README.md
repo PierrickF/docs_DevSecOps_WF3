@@ -170,6 +170,7 @@ Se référer à la section [GitHub](#github) pour cela.
 # Administration Red Hat II
 
 * [Formation Certification RHCSA - (vidéo)](https://www.youtube.com/playlist?list=PL1aYsXmhJ1We3Fb-jo_HndFSpeKmFRWeB)
+* [Changing and Resetting the Root Password - (article)](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/changing-and-resetting-the-root-password-from-the-command-line_configuring-basic-system-settings)
 
 # Puppet
 
